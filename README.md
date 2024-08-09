@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANURUDRA JENA</h1>
 <h3 align="center">I'm a software developer | data enthusiast living on caffeine.</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">via GIPHY</a></p>">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://raw.githubusercontent.com/ANURUDRA-JENA/ANURUDRA-JENA/main/giphy%20dev-cat.webp">via GIPHY</a></p>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurudra-jena&label=Profile%20views&color=0e75b6&style=flat" alt="anurudra-jena" /> </p>
 
