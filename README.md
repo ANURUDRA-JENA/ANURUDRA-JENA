@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANURUDRA JENA</h1>
 <div>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2500&pause=1500&color=FFFFFF&background=282A36&center=true&vCenter=true&random=false&width=435&lines=+Software+Developer+;+Data+Scientist+;+Data+Analyst+;+Vienna+Roast+is+the+best+" alt="Typing SVG" /></a>
+<a href="https://github.com/ANURUDRA-JENA"><img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2500&pause=1500&color=FFFFFF&background=282A36&center=true&vCenter=true&random=false&width=435&lines=+Software+Developer+;+Data+Scientist+;+Data+Analyst+;+Vienna+Roast+is+the+best+" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">I'm a software developer | data enthusiast living on caffeine.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ANURUDRA-JENA/ANURUDRA-JENA/main/giphy%20dev-cat.webp" alt="dev_cat">
