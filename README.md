@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ANURUDRA JENA</h1>
+<h1 align="left">Hi 👋, I'm ANURUDRA JENA</h1>
 <div>
 <a href="https://github.com/ANURUDRA-JENA"><img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&duration=2500&pause=1500&color=FFFFFF&background=282A36&center=true&vCenter=true&random=false&width=435&lines=+Software+Developer+;+Data+Scientist+;+Data+Analyst+;+Vienna+Roast+is+the+best+" alt="Typing SVG" /></a>
 </div>
