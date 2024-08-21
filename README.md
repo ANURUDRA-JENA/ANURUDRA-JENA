@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm ANURUDRA JENA</h1>
+
 ![BANNER](https://github.com/ANURUDRA-JENA/Web-Scraping-Project-2/blob/8b44414c154d13cb53ae7071b587f0c1d2d4db0c/asset_management/Banner%202.jpg)
 
 <div>
