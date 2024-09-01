@@ -1,4 +1,4 @@
-![BANNER](https://github.com/ANURUDRA-JENA/Web-Scraping-Project-2/blob/8b44414c154d13cb53ae7071b587f0c1d2d4db0c/asset_management/Banner%202.jpg)
+![BANNER](https://github.com/ANURUDRA-JENA/Web-Scraping-Project-2/blob/15050c3bd52f6e4132d9db734613f9014b7c06dc/asset_management/Banner%203.2.jpg)
 
 <h1 align="left">Hi 👋, I'm ANURUDRA JENA</h1>
 <div>
