@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **anirudjena@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zTk4MOYn7Bmzpu24KZI6w8A04UE031wV/view?usp=sharing](https://drive.google.com/file/d/1zTk4MOYn7Bmzpu24KZI6w8A04UE031wV/view?usp=sharing)
+- 📄 Check out  my [Portfolio](https://anurudra-jena.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
